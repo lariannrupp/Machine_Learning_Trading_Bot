@@ -77,6 +77,10 @@ As you run through the exercise, observe how I analyzed my machine learning trad
 
 
 ### Impact of increasing or decreasing the training window:
+(Training window from 05-30-2019 to 05-30-2020)
+The model provided better returns when it was trained for a 1 year window from 05-30-2019 to 05-30-2020.
+
+<img width="191" alt="image" src="https://user-images.githubusercontent.com/95719899/162641952-5a7c18a4-93ba-44e7-adbc-67b9cbe796f8.png">
 
 
 
@@ -87,6 +91,12 @@ For each value of increasing or decresing the sma window values, it was found th
 
 
 ### Best trading algorithm returns:
+(Training window of 05-30-19 to 05-30-2020, SMA window of 2 days and 200 days)
+
+![Screenshot 2022-04-10 161451](https://user-images.githubusercontent.com/95719899/162642098-bafd9a1f-d12e-41e2-9f2b-5bcde5c32b7b.jpg)
+
+
+
 
 
 ---
